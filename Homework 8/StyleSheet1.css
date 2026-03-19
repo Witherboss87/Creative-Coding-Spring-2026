@@ -1,0 +1,21 @@
+﻿.blueColor {
+    color: blue;
+    font-family: arial;
+    font-size: 24px;
+}
+
+
+span.blueColor {
+    color: blue;
+    font-family: arial;
+    font-size: 24px;
+}
+
+
+#specificColor{
+    color:darkgreen
+}
+
+body.two {
+    background-image: url('vessel_background.png');
+}
