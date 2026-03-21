@@ -19,3 +19,7 @@ span.blueColor {
 body.two {
     background-image: url('vessel_background.png');
 }
+
+input:required:invalid {
+  background-color: #c00000;
+}
